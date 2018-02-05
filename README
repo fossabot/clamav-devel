@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fleonkuperman%2Fclamav-devel.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fleonkuperman%2Fclamav-devel?ref=badge_shield)
+
 Note: This README/NEWS file refers to the source tarball. Some things described
 here may not be available in binary packages.
 --
@@ -2742,3 +2744,7 @@ and plain latex, if you want to compile it yourself.
 
 You need GNU make (on Solaris you should have gmake).
 It was tested only with gcc 2.9x compilers.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fleonkuperman%2Fclamav-devel.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fleonkuperman%2Fclamav-devel?ref=badge_large)
